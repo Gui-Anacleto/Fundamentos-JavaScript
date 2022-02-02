@@ -12,3 +12,8 @@ let input2;
 
 console.log(input1); // null
 console.log(input2); // undefined
+
+// outro exemplo
+
+console.log(null == undefined); // true
+console.log(null === undefined); // false
