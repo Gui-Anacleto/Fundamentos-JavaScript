@@ -61,3 +61,15 @@ Dica de boas práticas: sempre procure nomear/identificar seu código da forma m
 utilizado. Além de evitar palavras reservadas, faz com que o código fique mais compreensível e de leitura mais fluida.
 
 */
+
+//Opinião do instrutor.
+let minhaLet;
+console.log(minhaLet); //undefined
+
+// atribuindo um valor com TIPO DE DADO STRING
+minhaLet = "eu sou um texto";
+console.log(minhaLet); // "eu sou um texto"
+
+// reatribuindo, desta vez com dado do TIPO NUMBER
+minhaLet = 100;
+console.log(minhaLet); //100
