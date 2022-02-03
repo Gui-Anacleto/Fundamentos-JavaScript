@@ -54,4 +54,10 @@ console.log(Number(usuarioConectado)); // teremos a conversão da booleana para 
 usuarioConectado = true;
 console.log(Number(usuarioConectado)); // agora teremos a conversão de true (verdadeiro) para o número 1.
 
-/* Dica de boas práticas: Apesar do JavaScript fazer a maioria das conversões de forma correta, problemas podem aparecer, então é sempre bom fazer as conversões de forma explícita. Não é comum usar o operador de soma para fazer a conversão para números, mas este uso é possível. Conversões de booleanos não costumam ser muito usados, mas são possíveis.*/
+/* Dica de boas práticas: Apesar do JavaScript fazer a maioria das conversões de forma correta, problemas podem aparecer, então é sempre bom fazer as conversões de forma explícita. 
+Não é comum usar o operador de soma para fazer a conversão para números, mas este uso é possível. Conversões de booleanos não costumam ser muito usados, mas são possíveis.
+
+Dica de boas práticas: sempre procure nomear/identificar seu código da forma mais semântica possível, pensando em qual é o dado que está sendo salvo na variável e para que ele será 
+utilizado. Além de evitar palavras reservadas, faz com que o código fique mais compreensível e de leitura mais fluida.
+
+*/
