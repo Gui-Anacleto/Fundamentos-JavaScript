@@ -15,7 +15,7 @@ Onde as booleanas mais aparecem, como resultados de comparações com === ou out
 -O JavaScript converte automaticamente entre tipos de valores, como números para texto e para booleanos, porém não é interessante deixá-lo fazer isso automaticamente, pois podem ocorrer erros.
 -Temos como forçar uma mudança de tipo utilizando os métodos Number() e String(), onde Number() converte as variáveis para números ou NaN caso tenha algum erro na conversão, e String() converte as variáveis para texto.
 
-3.O JavaScript e o NodeJS
+3.O JAVASSRIPT E O NODEJS
 -As características principais do JavaScript, como ser uma linguagem interpretada e dinamicamente tipada.
 -O que o NodeJS é um interpretador de JavaScript para backend, ou seja, não executa no navegador, mas sim no servidor.
 -Como ler os erros que aparecem no console da aplicação, podendo usar um tradutor, como o Google Tradutor, para entender o que o erro está avisando.
