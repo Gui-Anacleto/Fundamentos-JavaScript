@@ -22,3 +22,5 @@ Onde as booleanas mais aparecem, como resultados de comparações com === ou out
 -O que é stacktrace, também chamado de pilha, que nos auxilia a saber o que está acontecendo quando temos um erro, e onde ele se localiza.
 -O que é o Console API e como podemos utilizá-lo usando o console.log() e console.error().
 -Onde as mensagem do console devem aparecer dependendo do interpretador que estamos usando, sendo que para o NodeJS as mensagens são mostradas no terminal
+
+4.
